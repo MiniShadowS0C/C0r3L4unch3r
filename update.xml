@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<update base="PONER_URL_AQUI">
+  <component name="launcher" version="1.0.0.0" md5="00000000000000000000000000000000" link="CoreLauncher.exe" />
+  <component name="wow" md5="00000000000000000000000000000000" link="CoreHD.exe" />
+</update>
