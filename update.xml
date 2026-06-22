@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update base="https://raw.githubusercontent.com/MiniShadowS0C/C0r3L4unch3r/refs/heads/main/">
-  <component name="launcher" version="1.0.0.0" md5="00000000000000000000000000000000" link="https://raw.githubusercontent.com/MiniShadowS0C/C0r3L4unch3r/refs/heads/main/CoreLauncher.exe" />
-  <component name="wow" md5="00000000000000000000000000000000" link="https://raw.githubusercontent.com/MiniShadowS0C/C0r3L4unch3r/refs/heads/main/CoreHD.exe" />
+  <component name="launcher" version="1.0.0.0" md5="00000000000000000000000000000000" link="CoreLauncher.exe" />
+  <component name="wow" md5="00000000000000000000000000000000" link="CoreHD.exe" />
 </update>
