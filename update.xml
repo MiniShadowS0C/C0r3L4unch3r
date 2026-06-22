@@ -2,4 +2,5 @@
 <update base="https://raw.githubusercontent.com/MiniShadowS0C/C0r3L4unch3r/refs/heads/main/">
   <component name="launcher" version="0.0.1.4" md5="f5605264879df24f5d3dadfdea41bbd8" link="https://raw.githubusercontent.com/MiniShadowS0C/C0r3L4unch3r/refs/heads/main/CoreLauncher.exe" />
   <component name="wow" md5="d41d8cd98f00b204e9800998ecf8427e" link="https://raw.githubusercontent.com/MiniShadowS0C/C0r3L4unch3r/refs/heads/main/CoreHD.exe" />
+  <component name="patch" file="patch-Z.mpq" md5="d41d8cd98f00b204e9800998ecf8427e" link="https://raw.githubusercontent.com/MiniShadowS0C/C0r3L4unch3r/refs/heads/main/patch-Z.mpq" />
 </update>
