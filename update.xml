@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update base="https://raw.githubusercontent.com/MiniShadowS0C/C0r3L4unch3r/refs/heads/main/">
   
-  <component name="launcher" version="0.0.1.4" md5="f5605264879df24f5d3dadfdea41bbd8" link="https://raw.githubusercontent.com/MiniShadowS0C/C0r3L4unch3r/refs/heads/main/CoreLauncher.exe" />
-  <component name="wow" md5="c4ea7db8249717e48e6e1c6f1729b8c1" link="https://raw.githubusercontent.com/MiniShadowS0C/C0r3L4unch3r/refs/heads/main/CoreHD.exe" />
+  <component name="launcher" version="0.0.1.5" md5="f5605264879df24f5d3dadfdea41bbd8" link="https://raw.githubusercontent.com/MiniShadowS0C/C0r3L4unch3r/refs/heads/main/CoreLauncher.exe" />
+  <component name="wow" md5="cf9ef1df5b03e9737a0b2629c867e032" link="https://raw.githubusercontent.com/MiniShadowS0C/C0r3L4unch3r/refs/heads/main/CoreHD.exe" />
   
-  <component name="patch" file="patch-9.mpq" md5="237aee8c59dea8b6a5f97fb5c13c24d8" link="https://download1649.mediafire.com/apoy2g1zsmkgzybkbr6MYRQXLMZQ5wJjm7egjuWYrCHlz9xstVBiXOPX4adXMSBeZoxk4EclaXQPpK8nFVJzGYCkHvLeLA4p0OGDhps_A4jmUnaSIjHmooNkfd-7ujL5mJ_JrnFFV10XLHdg6xg15T3fn4il2ZQp2d9DPPivUCz9XNH2/qjiyg1uq2ysv8na/patch-9.mpq" />
-  <component name="patch" file="patch-A.mpq" md5="825d1d05e37fb79608ebed9019a65e7f" link="https://download1346.mediafire.com/n2d42nbum6qgHVsRG_kgD50IFbfm4iJRbvT39d5uWXkY3Uwt-QYyLfJex6Lts8WCrlVN65Ct2_wy10BOGmOKwHs3DFow9MXgC8mxCGK3FgwKtjF1Nx_TPwDddVp8c89YRVRllAcXEqzBQmND4g85JBNYTkQvIC_yC8wZt_SHYKVWiNIF/s6qmqmcvct5gbsj/patch-A.mpq" />
-  <component name="patch" file="patch-B.mpq" md5="483b922caa81b95cd5ee96b5ae78d662" link="https://download1321.mediafire.com/nv0aut8vakrgBaIOV3t_mnMBoPexV1T7zG9y7181mRRQGqNN_p_BMuZ8tiG48imbGOG1BkpcSOlkh5khkyuDZTDbhA2aLtZgdp4fDwrTjxTooLwRmPSfaCaEfydZAyfp12_EiqR3TpzgBWT3XkH-r7SsyZfkWd7sSaMbhikOEzIJ1Ucj/jthzocn3rd38b31/patch-B.mpq" />
-  <component name="patch" file="patch-D.mpq" md5="7820161b35be6cc8857e5c398fb0a7e0" link="https://download937.mediafire.com/lftxleh7whrgxPvHC_eZSjVoWgL_Gq2ZGF2YzERd_-qNO6p528zPQLz-oQ0cTSqNZY8uzccZis8zN5wEsTVA_bvQ0q1roxxIRelSCR_iR-x_w_S80DOInuGOrYWfxtstkwF8VRf8dCOxkOj8yDR7U2oee6dbXy6ysoLn1j51887C_OUX/ydh1h2c12h9lwc2/patch-D.mpq" />
-  <component name="patch" file="patch-E.mpq" md5="ac24baffa321da793c0fe6cb14f0459f" link="https://download1351.mediafire.com/51j7griq1efgDVBuMmOraSioApIXjqiQmK6F0ZCoJdca0vxuRcrOBRSXKtcbBo_SCfe5IWKQt0gfo3F1Q8HxAciGkCA8JQ131tnYziElazhPG62TCViHxOLDLknOkD3ygKcUiJmEh8XB05goLNV-Wn2giq9jA82B6EogkUho4TR9r-Ij/5td1or8gi6x6lww/patch-E.mpq" />
-  <component name="patch" file="patch-I.mpq" md5="9a915a993994231b90e15e58701d0d4a" link="https://download1075.mediafire.com/9495cfs4nwbgW3vL_W4udDZZEJT2Q04CCgc6nDQ-1BWxTqcTHRN2zvq-I0W_PtYhtY2dOIY5w6Az6LpGUvK5BMdkyXKgxvTKURWRhAPs_n5PW_HPf5AU-EqNns4o3G9r9pwHBMI6H4rHm1y612clUeQqoMhKEzp32Uik0SOzoGV8RF5N/lsk1xrdnfwkadfg/patch-I.mpq" />
+  <component name="patch" file="patch-9.mpq" md5="a2ccaa70016888d168295cd850280a08" link="https://github.com/MiniShadowS0C/C0r3L4unch3r/releases/download/donwload/patch-9.mpq" />
+  <component name="patch" file="patch-A.mpq" md5="825d1d05e37fb79608ebed9019a65e7f" link="https://github.com/MiniShadowS0C/C0r3L4unch3r/releases/download/donwload/patch-A.mpq" />
+  <component name="patch" file="patch-B.mpq" md5="483b922caa81b95cd5ee96b5ae78d662" link="https://github.com/MiniShadowS0C/C0r3L4unch3r/releases/download/donwload/patch-B.mpq" />
+  <component name="patch" file="patch-D.mpq" md5="7820161b35be6cc8857e5c398fb0a7e0" link="https://github.com/MiniShadowS0C/C0r3L4unch3r/releases/download/donwload/patch-D.mpq" />
+  <component name="patch" file="patch-E.mpq" md5="ac24baffa321da793c0fe6cb14f0459f" link="https://github.com/MiniShadowS0C/C0r3L4unch3r/releases/download/donwload/patch-E.mpq" />
+  <component name="patch" file="patch-I.mpq" md5="9a915a993994231b90e15e58701d0d4a" link="https://github.com/MiniShadowS0C/C0r3L4unch3r/releases/download/donwload/patch-I.mpq" />
 
 </update>
