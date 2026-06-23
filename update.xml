@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update base="https://raw.githubusercontent.com/MiniShadowS0C/C0r3L4unch3r/refs/heads/main/">
   
-  <component name="launcher" version="0.0.1.5" md5="f5605264879df24f5d3dadfdea41bbd8" link="https://raw.githubusercontent.com/MiniShadowS0C/C0r3L4unch3r/refs/heads/main/CoreLauncher.exe" />
-  <component name="wow" md5="cf9ef1df5b03e9737a0b2629c867e032" link="https://raw.githubusercontent.com/MiniShadowS0C/C0r3L4unch3r/refs/heads/main/CoreHD.exe" />
+  <component name="launcher" version="0.0.1.5" md5="cf9ef1df5b03e9737a0b2629c867e032" link="https://raw.githubusercontent.com/MiniShadowS0C/C0r3L4unch3r/refs/heads/main/CoreLauncher.exe" />
+  <component name="wow" md5="c4ea7db8249717e48e6e1c6f1729b8c1" link="https://raw.githubusercontent.com/MiniShadowS0C/C0r3L4unch3r/refs/heads/main/CoreHD.exe" />
   
   <component name="patch" file="patch-9.mpq" md5="a2ccaa70016888d168295cd850280a08" link="https://github.com/MiniShadowS0C/C0r3L4unch3r/releases/download/donwload/patch-9.mpq" />
   <component name="patch" file="patch-A.mpq" md5="825d1d05e37fb79608ebed9019a65e7f" link="https://github.com/MiniShadowS0C/C0r3L4unch3r/releases/download/donwload/patch-A.mpq" />
