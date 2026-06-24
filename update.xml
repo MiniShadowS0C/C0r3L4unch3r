@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update base="https://raw.githubusercontent.com/MiniShadowS0C/C0r3L4unch3r/refs/heads/main/">
   
-  <component name="launcher" version="0.0.1.7" md5="860e5a8abbdce127fb5ba0cc612e64f2" link="https://raw.githubusercontent.com/MiniShadowS0C/C0r3L4unch3r/refs/heads/main/CoreLauncher.exe" />
+  <component name="launcher" version="0.0.1.7" md5="86b2f15403196eb3cc2d5babef1a914e" link="https://raw.githubusercontent.com/MiniShadowS0C/C0r3L4unch3r/refs/heads/main/CoreLauncher.exe" />
   <component name="wow" md5="c4ea7db8249717e48e6e1c6f1729b8c1" link="https://raw.githubusercontent.com/MiniShadowS0C/C0r3L4unch3r/refs/heads/main/CoreHD.exe" />
   
   <component name="patch" file="patch-9.mpq" md5="a2ccaa70016888d168295cd850280a08" link="https://github.com/MiniShadowS0C/C0r3L4unch3r/releases/download/donwload/patch-9.mpq" />
