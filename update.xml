@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update base="https://raw.githubusercontent.com/MiniShadowS0C/C0r3L4unch3r/refs/heads/main/">
   
-  <component name="launcher" version="0.0.1.12" md5="84ab8ec4e1730a02aa66b178263ba592" link="https://raw.githubusercontent.com/MiniShadowS0C/C0r3L4unch3r/refs/heads/main/CoreLauncher.exe" />
+  <component name="launcher" version="0.0.1.13" md5="7ef95d95beb42b060f0d6a6ded1c38349f71db82" link="https://raw.githubusercontent.com/MiniShadowS0C/C0r3L4unch3r/refs/heads/main/CoreLauncher.exe" />
   <component name="wow" md5="c4ea7db8249717e48e6e1c6f1729b8c1" link="https://raw.githubusercontent.com/MiniShadowS0C/C0r3L4unch3r/refs/heads/main/CoreHD.exe" />
   
   <component name="patch" file="patch-9.mpq" md5="a2ccaa70016888d168295cd850280a08" link="https://github.com/MiniShadowS0C/C0r3L4unch3r/releases/download/donwload/patch-9.mpq" />
-  <component name="patch" file="patch-A.mpq" md5="825d1d05e37fb79608ebed9019a65e7f" link="https://github.com/MiniShadowS0C/C0r3L4unch3r/releases/download/donwload/patch-A.mpq" />
-  <component name="patch" file="patch-B.mpq" md5="483b922caa81b95cd5ee96b5ae78d662" link="https://github.com/MiniShadowS0C/C0r3L4unch3r/releases/download/donwload/patch-B.mpq" />
-  <component name="patch" file="patch-D.mpq" md5="7820161b35be6cc8857e5c398fb0a7e0" link="https://github.com/MiniShadowS0C/C0r3L4unch3r/releases/download/donwload/patch-D.mpq" />
-  <component name="patch" file="patch-E.mpq" md5="6133ff7cd52c7c3d7a9c8d075099b29a" link="https://github.com/MiniShadowS0C/C0r3L4unch3r/releases/download/donwload/patch-E.mpq" />
+  <component name="patch" file="patch-A.mpq" md5="03806c09e4233ef4717c6d8689b72d0cb6edd6e6" link="https://github.com/MiniShadowS0C/C0r3L4unch3r/releases/download/donwload/patch-A.mpq" />
+  <component name="patch" file="patch-B.mpq" md5="2b25da82cfd35b769a0080f3a2a6dc58bb9016bd" link="https://github.com/MiniShadowS0C/C0r3L4unch3r/releases/download/donwload/patch-B.mpq" />
+  <component name="patch" file="patch-D.mpq" md5="e52c2a90201aa6c41316f692a8ea6380d9fd2415" link="https://github.com/MiniShadowS0C/C0r3L4unch3r/releases/download/donwload/patch-D.mpq" />
+  <component name="patch" file="patch-E.mpq" md5="a69e8219177a616f6d4da4dff9378c4da8674548" link="https://github.com/MiniShadowS0C/C0r3L4unch3r/releases/download/donwload/patch-E.mpq" />
+  <component name="patch" file="patch-F.mpq" md5="5a72a778bf4d2318ab7da4d86256eeca676a6f64" link="https://github.com/MiniShadowS0C/C0r3L4unch3r/releases/download/donwload/patch-F.mpq" />
   <component name="patch" file="patch-I.mpq" md5="9a915a993994231b90e15e58701d0d4a" link="https://github.com/MiniShadowS0C/C0r3L4unch3r/releases/download/donwload/patch-I.mpq" />
 
 </update>
