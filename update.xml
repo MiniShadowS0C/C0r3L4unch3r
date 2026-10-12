@@ -8,7 +8,7 @@
 • [NUEVO] Reestructuración de parches: descarga ultra-rápida.
   </changelog>
   
-  <component name="launcher" version="0.0.1.17" md5="c1640fc61876c49656836906a778d63d" link="https://raw.githubusercontent.com/MiniShadowS0C/C0r3L4unch3r/refs/heads/main/CoreLauncher.exe" />
+  <component name="launcher" version="0.0.1.18" md5="c444d7d1523d77458b369900b2c85250" link="https://raw.githubusercontent.com/MiniShadowS0C/C0r3L4unch3r/refs/heads/main/CoreLauncher.exe" />
   <component name="wow" md5="c4ea7db8249717e48e6e1c6f1729b8c1" link="https://raw.githubusercontent.com/MiniShadowS0C/C0r3L4unch3r/refs/heads/main/CoreHD.exe" />
   
   <component name="patch" file="patch-9.mpq" md5="a2ccaa70016888d168295cd850280a08" link="https://github.com/MiniShadowS0C/C0r3L4unch3r/releases/download/donwload/patch-9.mpq" />
