@@ -2,11 +2,16 @@
 <update base="https://raw.githubusercontent.com/MiniShadowS0C/C0r3L4unch3r/refs/heads/main/">
   
   <changelog>
-• [FIX] Armas de una mano en Entrenador de Combate.
-• [MEJORA] Pulido visual en Misiones y TeleCore.
-• [NUEVO] Resurrección dentro de Portales de mazmorras.
-• [NUEVO] Reestructuración de parches: descarga y actualizaciones rápidas.
+• [NUEVO] Detección de sigilo añadida en criaturas de Portales de Expedición.
+• [NUEVO] Jefes y mecánicas de combate mejorados en Portales de Expedición.
+• [FIX] Sistema InterCore: validaciones de seguridad y comercio optimizadas.
+• [FIX] Entrenador de Combate: corregidas armas de doble empuñadura (1M y 2M).
+• [FIX] Entrenador de Combate: Logica de Asistente de Talentos mejorada.
+• [FIX] Mall Principal: zona configurada correctamente como Santuario (Zona Segura).
+• [FIX] Actualización de Casco y Collar al conectar (requiere 1 espacio o comando /despertar).
+• [FIX] Misiones de Runas: recompensa de Sello de Ascenso corregida.
   </changelog>
+
   
   <component name="launcher" version="0.0.1.21" md5="ae88aa952a4811e31c3b289d46227dd4" link="https://raw.githubusercontent.com/MiniShadowS0C/C0r3L4unch3r/refs/heads/main/CoreLauncher.exe" />
   <component name="wow" md5="c4ea7db8249717e48e6e1c6f1729b8c1" link="https://raw.githubusercontent.com/MiniShadowS0C/C0r3L4unch3r/refs/heads/main/CoreHD.exe" />
