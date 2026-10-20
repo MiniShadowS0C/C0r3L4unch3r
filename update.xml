@@ -4,6 +4,11 @@
   <changelog>
 • [NUEVO] Detección de sigilo añadida en criaturas de Portales de Expedición.
 • [NUEVO] Jefes y mecánicas de combate mejorados en Portales de Expedición.
+• [NUEVO] Sistema de Misiones: ahora es posible linkear misiones directamente en el chat.
+• [MEJORA] Interfaz de Misiones: optimización visual y conteo de objetivos corregido.
+• [MEJORA] Portales de Expedición: reajuste y balance en las mecánicas de los jefes.
+• [MEJORA] Paladín Reprensión: talentos optimizados para una mejor recuperación de maná.
+• [FIX] Caballero de la Muerte (Profano): ajustado el comportamiento y escalado de la Gárgola.
 • [FIX] Sistema InterCore: validaciones de seguridad y comercio optimizadas.
 • [FIX] Entrenador de Combate: corregidas armas de doble empuñadura (1M y 2M).
 • [FIX] Entrenador de Combate: Logica de Asistente de Talentos mejorada.
