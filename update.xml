@@ -2,19 +2,14 @@
 <update base="https://raw.githubusercontent.com/MiniShadowS0C/C0r3L4unch3r/refs/heads/main/">
   
   <changelog>
-• [NUEVO] Detección de sigilo añadida en criaturas de Portales de Expedición.
-• [NUEVO] Jefes y mecánicas de combate mejorados en Portales de Expedición.
-• [NUEVO] Sistema de Misiones: ahora es posible linkear misiones directamente en el chat.
-• [MEJORA] Interfaz de Misiones: optimización visual y conteo de objetivos corregido.
-• [MEJORA] Portales de Expedición: reajuste y balance en las mecánicas de los jefes.
-• [MEJORA] Paladín Reprensión: talentos optimizados para una mejor recuperación de maná.
-• [FIX] Caballero de la Muerte (Profano): ajustado el comportamiento y escalado de la Gárgola.
-• [FIX] Sistema InterCore: validaciones de seguridad y comercio optimizadas.
-• [FIX] Entrenador de Combate: corregidas armas de doble empuñadura (1M y 2M).
-• [FIX] Entrenador de Combate: Logica de Asistente de Talentos mejorada.
-• [FIX] Mall Principal: zona configurada correctamente como Santuario (Zona Segura).
-• [FIX] Actualización de Casco y Collar al conectar (requiere 1 espacio o comando /despertar).
-• [FIX] Misiones de Runas: recompensa de Sello de Ascenso corregida.
+• [NUEVO] Cosméticos: añadidas nuevas Camisas de Ilusión (Orco Vil y Tábido) a entrenador de combate.
+• [NUEVO] Runas de Druida Feral: añadido Intelecto para balancear el consumo de maná híbrido.
+• [FIX] Casco y Collar: solucionado desequipado al entrar, cooldown global y pérdida de transfiguración.
+• [FIX] Balance de Clases: corregida sobreprotección del Paladín Tanque y daño anómalo del Druida Feral.
+• [FIX] Entrenador de Combate: restaurado Provocar del Guerrero y rangos faltantes de habilidades.
+• [FIX] Chamán Mejora: corregida la compatibilidad y entrenamiento con Armas de Puño.
+• [MEJORA] Portales de Expedición: sistema de resurrección optimizado y combate de jefes reajustado.
+• [MEJORA] Caballero de la Muerte: ajustado el escalado de celeridad de la Gárgola (Profano).
   </changelog>
 
   
